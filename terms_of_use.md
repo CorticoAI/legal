@@ -20,7 +20,7 @@ Will these Terms ever change?
 
 We are constantly trying to improve our Services, so these Terms may need to change along with our Services. We reserve the right to change the Terms at any time, but if we do, we will place a notice on our site located at lvn.org, send you an email, and/or notify you by some other means.  
 
-If you don’t agree with the new Terms, you are free to reject them; unfortunately, that means you will no longer be able to use the Services. If you use the Services in any way after a change to the Terms is effective, that means you agree to all  the changes.  
+If you don’t agree with the new Terms, you are free to reject them; unfortunately, that means you will no longer be able to use the Services. If you use the Services in any way after a change to the Terms is effective, that means you agree to all the changes.  
 
 Except for changes by us as described here, no other amendment or modification of these Terms will be effective unless in writing and signed by both you and us.  
 
@@ -32,6 +32,10 @@ Cortico takes the privacy of its users very seriously. For the current Cortico P
 ### Children’s Online Privacy Protection Act
 
 The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under thirteen (13). We do not knowingly collect or solicit personally identifiable information from children under thirteen (13); if you are a child under thirteen (13), please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under thirteen (13), we will delete that information as quickly as possible. If you believe that a child under thirteen (13) may have provided us personal information, please contact us at <help@lvn.org>.
+
+### EU Residents
+
+Our services are not intended for use by residents of the European Union.
 
 What are the basics of using Cortico?
 ------------------------------------
