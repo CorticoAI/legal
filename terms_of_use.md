@@ -52,27 +52,27 @@ As part of the Services, you may receive communications through the Services, in
 Are there restrictions in how I can use the Services?
 ---------------------------------------------------- 
 
-1. You represent, warrant, and agree that you will not contribute any Content or User Submission (each of those terms is defined below) or otherwise use the Services or interact with the Services in a manner that: 
+You represent, warrant, and agree that you will not contribute any Content or User Submission (each of those terms is defined below) or otherwise use the Services or interact with the Services in a manner that: 
 
-2. infringes or violates the intellectual property rights or any other rights of anyone else (including Cortico); 
+(a) infringes or violates the intellectual property rights or any other rights of anyone else (including Cortico); 
 
-3. violates any law or regulation, including, without limitation, any applicable export control laws, privacy laws or any other purpose not reasonably intended by Cortico; 
+(b) violates any law or regulation, including, without limitation, any applicable export control laws, privacy laws or any other purpose not reasonably intended by Cortico; 
 
-4. is dangerous, harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable; 
+(c) is dangerous, harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable; 
 
-5. jeopardizes the security of your Cortico User ID, account or anyone else’s (such as allowing someone else to log in to the Services as you); 
+(d) jeopardizes the security of your Cortico User ID, account or anyone else’s (such as allowing someone else to log in to the Services as you); 
 
-6. attempts, in any manner, to obtain the password, account, or other security information from any other user; 
+(e) attempts, in any manner, to obtain the password, account, or other security information from any other user; 
 
-7. violates the security of any computer network, or cracks any passwords or security encryption codes; 
+(f) violates the security of any computer network, or cracks any passwords or security encryption codes; 
 
-8. runs Maillist, Listserv, any form of auto-responder or “spam” on the Services, or any processes that run or are activated while you are not logged into the Services, or that otherwise interfere with the proper working of the Services (including by placing an unreasonable load on the Services’ infrastructure); 
+(g) runs Maillist, Listserv, any form of auto-responder or “spam” on the Services, or any processes that run or are activated while you are not logged into the Services, or that otherwise interfere with the proper working of the Services (including by placing an unreasonable load on the Services’ infrastructure); 
 
-9. “crawls,” “scrapes,” or “spiders” any page, data, or portion of or relating to the Services or Content (through use of manual or automated means); 
+(h) “crawls,” “scrapes,” or “spiders” any page, data, or portion of or relating to the Services or Content (through use of manual or automated means); 
 
-10. copies or stores any significant portion of the Content; or 
+(i) copies or stores any significant portion of the Content; or 
 
-11. decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services. 
+(j) decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services. 
 
 A violation of any of the foregoing is grounds for termination of your right to use or access the Services.  
 
