@@ -21,7 +21,7 @@ The chart in this section details the categories of Personal Data that we collec
 
 | Category of Personal Data | Personal Data We Collect | Source(s) of Personal Data | Categories of Third Parties With Whom We Share this Personal Data for a Business Purpose | 
 | ------------------------- | ------------------------ | -------------------------- | ---------------------------------------------------------------------------------------- |
-| Personal identifiers | Name, email address, postal address, phone number | You | Service Providers |
+| Personal identifiers | Name, email address, postal address, phone number | You | Service Providers, Community Partners |
 | Protected classification characteristics under state or federal law | Gender, race, age | You | None |
 | Biometric data | Voice recording, likeness | You | Service Providers, General Public |
 | Internet or other similar network activity information | IP address, cookies, analytics information | Third Parties | Service Providers |
