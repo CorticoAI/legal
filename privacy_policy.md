@@ -7,7 +7,7 @@ At Cortico, we take your privacy seriously. Please read this Privacy Policy to l
 
 Remember that your use of Cortico’s Services is at all times subject to our Terms of Use, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.  
 
-You may print a copy of this Privacy Policy by clicking [here](javascript:window.print). If you have a disability, you may access this Privacy Policy in an alternative format by contacting <help@lvn.org>. 
+You may print a copy of this Privacy Policy by clicking [here](javascript:window.print()). If you have a disability, you may access this Privacy Policy in an alternative format by contacting <help@lvn.org>. 
 
 What this Privacy Policy Covers
 ------------------------------
