@@ -7,7 +7,7 @@ Welcome to Cortico. Please read on to learn the rules and restrictions that gove
 
 Email: <help@lvn.org>  
 Phone: 617-404-9812   
-Address: 25 Kingston St, 6th Floor Boston, MA 02111
+Address: 177 Huntington Ave Ste 1703 #83158 Boston, MA 02115
 
 These Terms of Use (the “Terms”) are a binding contract between you and **CORTICO CORPORATION** (“Cortico,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. If you are using the Services on behalf of a company, you represent and warrant to us that you are authorized to bind the company, and these Terms shall also apply to the company (and, in such instance, “you” shall refer to both you and such company). These Terms include the provisions in this document as well as those in the [Privacy Policy](https://lvn.org/privacy), Copyright Dispute Policy and any other relevant policies. **Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms**.
 
@@ -157,7 +157,7 @@ Please contact Cortico's Designated Agent at the following address:
 
 Cortico Corporation   
 Attn: DMCA Designated Agent  
-25 Kingston St, 6th Floor Boston, MA 02111
+177 Huntington Ave Ste 1703 #83158 Boston, MA 02115
 
 Who is responsible for what I see and do on the Services? 
 --------------------------------------------------------
@@ -234,7 +234,7 @@ Please read the following ARBITRATION AGREEMENT carefully because it requires yo
 
 5. *Waiver of Class or Consolidated Actions*. ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED OR LITIGATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS BASIS. CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR LITIGATED JOINTLY OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER. If however, this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor Cortico is entitled to arbitration; instead all claims and disputes will be resolved in a court as set forth in (7) below.  
 
-6. *Opt-out*. You have the right to opt out of the provisions of this Section by sending written notice of your decision to opt out to the following address: *25 Kingston St. 6th Floor Boston, MA 02111* postmarked within thirty (30) days of first accepting these Terms. You must include (i) your name and residence address, (ii) the email address and/or telephone number associated with your account, and (iii) a clear statement that you want to opt out of these Terms’ arbitration agreement. 
+6. *Opt-out*. You have the right to opt out of the provisions of this Section by sending written notice of your decision to opt out to the following address: *177 Huntington Ave Ste 1703 #83158 Boston, MA 02115* postmarked within thirty (30) days of first accepting these Terms. You must include (i) your name and residence address, (ii) the email address and/or telephone number associated with your account, and (iii) a clear statement that you want to opt out of these Terms’ arbitration agreement. 
 
 7. *Exclusive Venue*. If you send the opt-out notice in (6), and/or in any circumstances where the foregoing arbitration agreement permits either you or Cortico to litigate any dispute arising out of or relating to the subject matter of these Terms in court, then the foregoing arbitration agreement will not apply to either party, and both you and Cortico agree that any judicial proceeding (other than small claims actions) will be brought in the state or federal courts located in, respectively, Suffolk County, Massachusetts, or the federal district in which that county falls.  
 
