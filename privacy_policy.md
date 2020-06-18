@@ -27,7 +27,7 @@ The chart in this section details the categories of Personal Data that we collec
 | Internet or other similar network activity information | IP address, cookies, analytics information | Third Parties | Service Providers |
 | Geolocation data | Location of Conversation | You | None |
 | Professional or employment-related information | Job application information, resumes, cover letters | You | Service Providers |
-| Personal Data about children under the age of 16 | Name, Email Address, Birthdate | You | Service Providers |
+| Personal Data about children under the age of 16 | Name, Email Address, Birthdate | You | Service Providers, Community Partners |
 
 ### Sources of Personal Data 
 
@@ -79,10 +79,13 @@ How We Share Your Personal Data
  
 ### Categories of Third Parties with Whom We Share Personal Data 
 
-We disclose your Personal Data as indicated in the chart above to the following categories of service providers and other parties:
+We disclose your Personal Data as indicated in the chart above to the following categories of other parties:
 
 * “Service Providers”
-  * These are third parties that help us provide our Services, including security and fraud prevention providers, hosting and other technology and communications providers, analytics providers, and staff augmentation and contract personnel. 
+  * These are third parties that help us provide our Services, including security and fraud prevention providers, hosting and other technology and communications providers, analytics providers, and staff augmentation and contract personnel.
+
+* “Community Partners”
+  * These are third party community organizations that we partner with to offer programming events. If you attend a programming event that is organized with a community partner, we may ask for your consent to share your contact information with that partner.
 
 Your Personal Data may also be transferred to a third party if we undergo a merger, acquisition, bankruptcy or other transaction in which that third party assumes control of our business (in whole or in part). 
 
@@ -95,7 +98,7 @@ We disclose your Personal Data to service providers and other parties for the fo
 - Short-term, transient use of Personal Data that is not used by another party to build a consumer profile or otherwise alter your consumer experience outside the current interaction. 
 - Performing services on our behalf, including maintaining or servicing accounts, providing customer service, processing or fulfilling reservations, verifying customer information, providing analytic services, providing transcription services, or providing similar services on behalf of the business or service provider. 
 - Undertaking internal research for technological development and demonstration. 
-- Undertaking activities to verify or maintain the quality or safety of a service or device that we own, manufacture (or that was manufactured for us) or control. 
+- Undertaking activities to verify or maintain the quality or safety of a service or device that we own, manufacture (or that was manufactured for us) or control.
 
 Data Security and Retention 
 ---------------------------
