@@ -1,7 +1,7 @@
 Cortico Corporation - Terms of Use
 ==================================
 
-Effective date: June 19, 2020
+*Effective date: June 26, 2020*
 
 Welcome to Cortico. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at: 
 
