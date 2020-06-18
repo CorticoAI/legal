@@ -54,7 +54,7 @@ What about messaging?
 As part of the Services, you may receive communications through the Services, including messages that Cortico sends you (for example, via email or SMS). When signing up for the Services, you will receive a welcome message and instructions on how to stop receiving messages. **By signing up for the Services and providing us with your wireless number, you confirm that you want Cortico to send you information that we think may be of interest to you, which may include Cortico using automated dialing technology to text you at the wireless number you provided, and you agree to receive communications from Cortico, and you represent and warrant that each person you register for the Services or for whom you provide a wireless phone number has consented to receive communications from Cortico**. You agree to indemnify and hold Cortico harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to your breach of the foregoing. 
 
 Are there restrictions in how I can use the Services?
----------------------------------------------------- 
+---------------------------------------------------
 
 You represent, warrant, and agree that you will not contribute any Content or User Submission (each of those terms is defined below) or otherwise use the Services or interact with the Services in a manner that: 
 
@@ -88,7 +88,7 @@ The materials displayed or performed or available on or through the Services, in
 Subject to these Terms, we grant each user of the Services a worldwide, non-exclusive, non-sublicensable and non-transferable license to use (i.e., to download and display locally) Content solely for purposes of using the Services. Use, reproduction, modification, distribution or storage of any Content for any purpose other than using the Services is expressly prohibited without prior written permission from us. You understand that Cortico owns the Services. You won’t modify, publish, transmit, participate in the transfer or sale of, reproduce (except as expressly provided in this Section), create derivative works based on, or otherwise exploit any of the Services. The Services may allow you to copy or download certain Content, but please remember that even where these functionalities exist, all the restrictions in this section still apply. 
 
 What about anything I contribute to the Services – do I have to grant any licenses to Cortico or to other users?
-------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------
 
 ### User Submissions 
 
@@ -185,7 +185,7 @@ Do the Services cost anything?
 The Services are currently free, but we reserve the right to charge for certain or all Services in the future. We will notify you before any Services you are then using begin carrying a fee, and if you wish to continue using such Services, you must pay all applicable fees for such Services.
 
 What if I want to stop using the Services? 
------------------------------------------ 
+----------------------------------------
 
 You’re free to do that at any time by contacting us at <help@lvn.org>; please refer to our [Privacy Policy](https://lvn.org/privacy), as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.  
 
