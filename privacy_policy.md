@@ -1,9 +1,9 @@
 CORTICO CORPORATION PRIVACY POLICY
 =================================
 
-*Effective date: June 26, 2020*  
+*Effective date: August 16, 2021*  
 
-At Cortico, we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal information. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy**.  
+At Cortico and the Local Voices Network (operated by Cortico), we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal information. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy**.  
 
 Remember that your use of Cortico’s Services is at all times subject to our [Terms of Use](https://lvn.org/terms), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.  
 
@@ -39,6 +39,7 @@ We collect Personal Data about you from the following categories of sources:
 * “Third Parties”
   * Third parties that provide us with Personal Data about you. Third Parties that share your Personal Data with us include:  
     * **Service providers**. For example, we may use analytics service providers to analyze how you interact and engage with the Services, or third parties may help us provide you with customer support.
+    * **Community Partners**. For example, we partner with third party community organizations to offer programming events.
 
 ### Information Collected Automatically
 
@@ -152,9 +153,13 @@ You have the right to request certain information about our collection and use o
 
 ### Deletion 
 
-You have the right to request that we delete the Personal Data that we have collected about you. Under the CCPA, this right is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.  
+You have the right to request that we delete the Personal Data that we have collected about you. To submit a request related to access, modification or deletion of your information, you can contact us through one of the points of contact at the bottom of this Privacy Policy or, if you are logged into your Cortico account, you can manage your privacy settings and other account features [here](https://app.lvn.org/settings). Please note that it may take a bit of time for privacy settings to be fully reflected throughout our systems. Under the CCPA, this right to deletion is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.  
 
 ### Exercising Your Rights 
+
+- Right to Access: If you are a California resident, you have the right to request (up to twice per year), access to categories and specific pieces of personal information about you that we collect, use, disclose, and sell.
+- Right to Delete: If you are a California resident, you have the right to request that we delete personal information that we collect from you, subject to applicable legal exceptions as mentioned above.
+- Right to Opt Out of Sale of Personal Information: If you are a California resident, you have the right to opt out of the sale of your personal information to third parties.
 
 To exercise the rights described above, you must send us a request that (1) provides sufficient information to allow us to verify that you are the person about whom we have collected Personal Data, including your email address used for lvn.org and the date and location of the conversation you participated in (if applicable) and (2) describes your request in sufficient detail to allow us to understand, evaluate and respond to it. Each request that meets both of these criteria will be considered a “Valid Request.” We may not respond to requests that do not meet these criteria. We will only use Personal Data provided in a Valid Request to verify your identity and complete your request. You do not need an account to submit a Valid Request. 
 
