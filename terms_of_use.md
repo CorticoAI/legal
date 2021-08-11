@@ -27,11 +27,7 @@ Except for changes by us as described here, no other amendment or modification o
 What about my privacy?
 ---------------------
 
-<<<<<<< HEAD
-Cortico takes the privacy of its users very seriously. By using the Services, you consent to our collection and use of personal data as outlined therein. For the current Cortico Privacy Policy, please click [here](https://lvn.org/privacy). 
-=======
-Cortico takes the privacy of its users very seriously. For the current Cortico Privacy Policy, please click [here](https://cortico.ai/privacy). 
->>>>>>> f7e1b24... swap out lvn.org with cortico.ai
+Cortico takes the privacy of its users very seriously. By using the Services, you consent to our collection and use of personal data as outlined therein. For the current Cortico Privacy Policy, please click [here](https://cortico.ai/privacy). 
 
 ### Children’s Online Privacy Protection Act
 
