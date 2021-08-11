@@ -1,7 +1,7 @@
 CORTICO CORPORATION PRIVACY POLICY
 =================================
 
-*Effective date: August 11, 2021*  
+*Effective date: August 12, 2021*  
 
 At Cortico and the Local Voices Network (operated by Cortico), we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal information. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy**.  
 

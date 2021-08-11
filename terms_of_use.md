@@ -1,7 +1,7 @@
 Cortico Corporation - Terms of Use
 ==================================
 
-*Effective date: August 11, 2021*
+*Effective date: August 12, 2021*
 
 Welcome to Cortico, the operator of the Local Voices Network. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at: 
 
