@@ -1,15 +1,15 @@
 Cortico Corporation - Terms of Use
 ==================================
 
-*Effective date: June 26, 2020*
+*Effective date: August 12, 2021*
 
-Welcome to Cortico. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at: 
+Welcome to Cortico, the operator of the Local Voices Network. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at: 
 
-Email: <help@lvn.org>  
+Email: <help@cortico.ai>  
 Phone: 617-404-9812   
 Address: 177 Huntington Ave Ste 1703 #83158 Boston, MA 02115
 
-These Terms of Use (the “Terms”) are a binding contract between you and **CORTICO CORPORATION** (“Cortico,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. If you are using the Services on behalf of a company, you represent and warrant to us that you are authorized to bind the company, and these Terms shall also apply to the company (and, in such instance, “you” shall refer to both you and such company). These Terms include the provisions in this document as well as those in the [Privacy Policy](https://lvn.org/privacy), Copyright Dispute Policy and any other relevant policies. **Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms**.
+These Terms of Use (the “Terms”) are a binding contract between you and **CORTICO CORPORATION** (“Cortico,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. If you are using the Services on behalf of a company, you represent and warrant to us that you are authorized to bind the company, and these Terms shall also apply to the company (and, in such instance, “you” shall refer to both you and such company). These Terms include the provisions in this document as well as those in the [Privacy Policy](https://cortico.ai/privacy), Copyright Dispute Policy and any other relevant policies. **Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms**.
 
 **Please read these Terms carefully**. They cover important information about Services provided to you. **These Terms include information about [future changes to these Terms](#will-these-terms-ever-change), [limitations of liability](#limitation-of-liability), [a class action waiver and resolution of disputes by arbitration instead of in court](#arbitration-agreement). PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES ARE SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER**.
 
@@ -27,11 +27,11 @@ Except for changes by us as described here, no other amendment or modification o
 What about my privacy?
 ---------------------
 
-Cortico takes the privacy of its users very seriously. For the current Cortico Privacy Policy, please click [here](https://lvn.org/privacy). 
+Cortico takes the privacy of its users very seriously. By using the Services, you consent to our collection and use of personal data as outlined therein. For the current Cortico Privacy Policy, please click [here](https://cortico.ai/privacy). 
 
 ### Children’s Online Privacy Protection Act
 
-The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under thirteen (13). We do not knowingly collect or solicit personally identifiable information from children under thirteen (13); if you are a child under thirteen (13), please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under thirteen (13), we will delete that information as quickly as possible. If you believe that a child under thirteen (13) may have provided us personal information, please contact us at <help@lvn.org>.
+The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under thirteen (13). We do not knowingly collect or solicit personally identifiable information from children under thirteen (13); if you are a child under thirteen (13), please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under thirteen (13), we will delete that information as quickly as possible. If you believe that a child under thirteen (13) may have provided us personal information, please contact us at <help@cortico.ai>.
 
 ### EU Residents
 
@@ -44,7 +44,7 @@ You may be required to sign up for an account, select a password and user name (
 
 You represent and warrant that you are an individual of legal age to form a binding contract (or if not, you’ve received your parent’s or guardian’s permission to use the Services and have gotten your parent or guardian to agree to these Terms on your behalf).  
 
-You will only use the Services for your internal, non-commercial use, and not on behalf of or for the benefit of any third party; provided, you may distribute content from the service through the use of service-provided content embed links, when available. If your use of the Services is prohibited by applicable laws, then you aren’t authorized to use the Services. We can’t and won’t be responsible for your using the Services in a way that breaks the law. 
+You will only use the Services for your internal, non-commercial use, and not on behalf of or for the benefit of any third party, unless otherwise expressly agreed to by Cortico; provided, you may distribute content from the service through the use of service-provided content embed links, when available. If your use of the Services is prohibited by applicable laws, then you aren’t authorized to use the Services. We can’t and won’t be responsible for your using the Services in a way that breaks the law. 
 
 You will not share your Cortico User ID, account or password with anyone, and you must protect the security of your Cortico User ID, account, password and any other access tools or credentials. You’re responsible for any activity associated with your Cortico User ID and account.  
 
@@ -94,13 +94,17 @@ What about anything I contribute to the Services – do I have to grant any lice
 
 Anything you post, upload, share, store, or otherwise provide through the Services is your “User Submission”. Some User Submissions may be viewable by other users. You are solely responsible for all User Submissions you contribute to the Services. You represent that all User Submissions submitted by you are accurate, complete, up-to-date, and in compliance with all applicable laws, rules and regulations.  
 
-You understand that your conversation will be recorded and transcribed. It may be made available to journalists, public officials, researchers, other participants and partners in the project, and eventually the general public, at Cortico’s discretion. By participating, you grant permission for your conversation to be recorded and transcribed. You further authorize Cortico and its sublicensees to use, publish, and sublicense your recorded voice from an LVN conversation, and to assert copyright in that recording and transcription. 
+You understand that your conversation will be recorded and transcribed. It may be made available to journalists, public officials, researchers, other participants and partners in the project, and eventually the general public, at Cortico’s discretion. By participating, you grant permission for your conversation to be recorded and transcribed. You further authorize Cortico and its sublicensees to use, publish, and sublicense your recorded voice from an LVN conversation, and for the party submitting the recording to assert copyright in that recording and transcription. 
 
-You agree that you will not post, upload, share, store, or otherwise provide through the Services any User Submissions that: (i) infringe any third party's copyrights or other rights (e.g., trademark, privacy rights, etc.); (ii) contain sexually explicit content or pornography; (iii) contain hateful, defamatory, or discriminatory content or incite hatred against any individual or group; (iv) exploit minors; (v) depict unlawful acts or extreme violence; (vi) depict animal cruelty or extreme violence towards animals; (vii) promote fraudulent schemes, multi-level marketing (MLM) schemes, get rich quick schemes, online gaming and gambling, cash gifting, work from home businesses, or any other dubious money-making ventures; or (viii) that violate any law. 
+You agree that you will not post, upload, share, store, or otherwise provide through the Services any User Submissions that: (i) infringe any third party's copyrights or other rights (e.g., trademark, privacy rights, etc.); (ii) contain sexually explicit content or pornography; (iii) contain hateful, defamatory, or discriminatory content or incite hatred against any individual or group; (iv) exploit minors; (v) depict unlawful acts or extreme violence; (vi) depict animal cruelty or extreme violence towards animals; (vii) promote fraudulent schemes, multi-level marketing (MLM) schemes, get rich quick schemes, online gaming and gambling, cash gifting, work from home businesses, or any other dubious money-making ventures; or (viii) that violate any law.
+
+### Content Involving Others
+
+A large portion of the content uploaded through the Cortico platform is produced by our users, partners, and other third parties. The content is the sole responsibility of the party that submitted it. Cortico reserves the right to review or remove all content that appears on the Services, but we do not necessarily review all of it. So we cannot—and do not—take responsibility for any content that others provide through the Services.
 
 ### Licenses 
 
-In order to display your User Submissions on the Services, and to allow other users to enjoy them (where applicable), you grant us certain rights in those User Submissions (see below for more information). Please note that all of the following licenses are subject to our [Privacy Policy](https://lvn.org/privacy) to the extent they relate to User Submissions that are also your personally-identifiable information. 
+In order to display your User Submissions on the Services, and to allow other users to enjoy them (where applicable), you grant us certain rights in those User Submissions (see below for more information). Please note that all of the following licenses are subject to our [Privacy Policy](https://cortico.ai/privacy) to the extent they relate to User Submissions that are also your personally-identifiable information. 
 
 By submitting User Submissions through the Services, you hereby do and shall grant Cortico a worldwide, non-exclusive, perpetual, royalty-free, fully paid, sublicensable and transferable license to use, edit, modify, truncate, aggregate, reproduce, distribute, prepare derivative works of, display, perform, and otherwise fully exploit the User Submissions in connection with this site, the Services and our (and our successors’ and assigns’) businesses, including without limitation for promoting and redistributing part or all of this site or the Services (and derivative works thereof) in any media formats and through any media channels (including, without limitation, third party websites and feeds), and including after your termination of your account or the Services. You also hereby do and shall grant each user of this site and/or the Services a non-exclusive, perpetual license to access your User Submissions through this site and/or the Services, and to use, edit, modify, reproduce, distribute, prepare derivative works of, display and perform such User Submissions, including after your termination of your account or the Services. For clarity, the foregoing license grants to us and our users do not affect your other ownership or license rights in your User Submissions, including the right to grant additional licenses to your User Submissions, unless otherwise agreed in writing. You represent and warrant that you have all rights to grant such licenses to us without infringement or violation of any third party rights, including without limitation, any privacy rights, publicity rights, copyrights, trademarks, contract rights, or any other intellectual property or proprietary rights. 
 
@@ -187,13 +191,13 @@ The Services are currently free, but we reserve the right to charge for certain 
 What if I want to stop using the Services? 
 ----------------------------------------
 
-You’re free to do that at any time by contacting us at <help@lvn.org>; please refer to our [Privacy Policy](https://lvn.org/privacy), as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.  
+You’re free to do that at any time by contacting us at <help@cortico.ai>; please refer to our [Privacy Policy](https://cortico.ai/privacy), as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.  
 
 Cortico is also free to terminate (or suspend access to) your use of the Services or your account for any reason in our discretion, including your breach of these Terms. Cortico has the sole right to decide whether you are in violation of any of the restrictions set forth in these Terms. 
 
 Account termination may result in destruction of any Content associated with your account, so keep that in mind before you decide to terminate your account. We will try to provide advance notice to you prior to our terminating your account so that you are able to retrieve any important User Submissions you may have stored in your account (to the extent allowed by law and these Terms), but we may not do so if we determine it would be impractical, illegal, not in the interest of someone’s safety or security, or otherwise harmful to the rights or property of Cortico. 
 
-If you have deleted your account by mistake, contact us immediately at <help@lvn.org> – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything. 
+If you have deleted your account by mistake, contact us immediately at <help@cortico.ai> – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything. 
 
 Provisions that, by their nature, should survive termination of these Terms shall survive termination. By way of example, all of the following will survive termination: any obligation you have to pay us or indemnify us, any limitations on our liability, any terms regarding ownership or intellectual property rights, and terms regarding disputes between us, including without limitation the arbitration agreement.  
 

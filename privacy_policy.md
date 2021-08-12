@@ -1,13 +1,13 @@
 CORTICO CORPORATION PRIVACY POLICY
 =================================
 
-*Effective date: June 26, 2020*  
+*Effective date: August 12, 2021*  
 
-At Cortico, we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal information. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy**.  
+At Cortico and the Local Voices Network (operated by Cortico), we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal information. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy**.  
 
-Remember that your use of Cortico’s Services is at all times subject to our [Terms of Use](https://lvn.org/terms), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.  
+Remember that your use of Cortico’s Services is at all times subject to our [Terms of Use](https://cortico.ai/terms), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.  
 
-You may print a copy of this Privacy Policy by clicking [here](javascript:window.print()). If you have a disability, you may access this Privacy Policy in an alternative format by contacting <help@lvn.org>. 
+You may print a copy of this Privacy Policy by clicking [here](javascript:window.print()). If you have a disability, you may access this Privacy Policy in an alternative format by contacting <help@cortico.ai>. 
 
 What this Privacy Policy Covers
 ------------------------------
@@ -39,6 +39,7 @@ We collect Personal Data about you from the following categories of sources:
 * “Third Parties”
   * Third parties that provide us with Personal Data about you. Third Parties that share your Personal Data with us include:  
     * **Service providers**. For example, we may use analytics service providers to analyze how you interact and engage with the Services, or third parties may help us provide you with customer support.
+    * **Community Partners**. For example, we partner with third party community organizations to offer programming events.
 
 ### Information Collected Automatically
 
@@ -72,7 +73,7 @@ We process Personal Data to operate, improve, understand and personalize our Ser
 
 We will not collect additional categories of Personal Data or use the Personal Data we collected for materially different, unrelated, or incompatible purposes without providing you notice. 
 
-As noted in the list above, we may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us, which helps us improve our Services. If you do not want to receive communications from us, please indicate your preference by emailing us at <help@lvn.org>.  
+As noted in the list above, we may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us, which helps us improve our Services. If you do not want to receive communications from us, please indicate your preference by emailing us at <help@cortico.ai>.  
 
 How We Share Your Personal Data 
 -------------------------------
@@ -110,9 +111,9 @@ We retain Personal Data about you for as long as you have an open account with u
 Personal Data of Children
 -------------------------
 
-As noted in the Terms of Use, we do not knowingly collect or solicit Personal Data about children under 13 years of age; if you are a child under the age of 13, please do not attempt to register for or otherwise use the Services or send us any Personal Data. If we learn we have collected Personal Data from a child under 13 years of age, we will delete that information as quickly as possible. If you believe that a child under 13 years of age may have provided Personal Data to us, please contact us at <help@lvn.org>.  
+As noted in the Terms of Use, we do not knowingly collect or solicit Personal Data about children under 13 years of age; if you are a child under the age of 13, please do not attempt to register for or otherwise use the Services or send us any Personal Data. If we learn we have collected Personal Data from a child under 13 years of age, we will delete that information as quickly as possible. If you believe that a child under 13 years of age may have provided Personal Data to us, please contact us at <help@cortico.ai>.  
 
-We may collect Personal Data from children under 18; if that data is shared by their parent or legal guardian and in accordance with the Children’s Online Privacy Protection Act (“COPPA”). We do not knowingly collect or solicit personally identifiable information from children under 18 without obtaining verifiable consent from that child’s parent or guardian, except for the limited amount of personally identifiable information we need to collect in order to obtain parental consent (“Required Information”). Until we have received parental consent, we will only use Required Information for the purpose of obtaining parental consent. If we learn we have collected Personal Data from a child under 18, without parental or legal guardian consent, we will delete that information as quickly as possible. If you are a parent or legal guardian of a child that has used LVN, or if you believe that a child under 18 may have provided us Personal Data, please contact us at <help@lvn.org>. 
+We may collect Personal Data from children under 18; if that data is shared by their parent or legal guardian and in accordance with the Children’s Online Privacy Protection Act (“COPPA”). We do not knowingly collect or solicit personally identifiable information from children under 18 without obtaining verifiable consent from that child’s parent or guardian, except for the limited amount of personally identifiable information we need to collect in order to obtain parental consent (“Required Information”). Until we have received parental consent, we will only use Required Information for the purpose of obtaining parental consent. If we learn we have collected Personal Data from a child under 18, without parental or legal guardian consent, we will delete that information as quickly as possible. If you are a parent or legal guardian of a child that has used LVN, or if you believe that a child under 18 may have provided us Personal Data, please contact us at <help@cortico.ai>. 
 
 User Protection 
 ---------------
@@ -137,7 +138,7 @@ California Resident Rights
 
 If you are a California resident, you have the rights set forth in this section. Please see the “Exercising Your Rights” section below for instructions regarding how to exercise these rights. Please note that we may process Personal Data of our customers’ end users or employees in connection with our provision of certain services to our customers. If we are processing your Personal Data as a service provider, you should contact the entity that collected your Personal Data in the first instance to address your rights with respect to such data. 
 
-If there are any conflicts between this section and any other provision of this Privacy Policy and you are a California resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following rights apply to you, please contact us at <help@lvn.org>. 
+If there are any conflicts between this section and any other provision of this Privacy Policy and you are a California resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following rights apply to you, please contact us at <help@cortico.ai>. 
 
 ### Access 
 
@@ -152,9 +153,13 @@ You have the right to request certain information about our collection and use o
 
 ### Deletion 
 
-You have the right to request that we delete the Personal Data that we have collected about you. Under the CCPA, this right is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.  
+You have the right to request that we delete the Personal Data that we have collected about you. To submit a request related to access, modification or deletion of your information, you can contact us through one of the points of contact at the bottom of this Privacy Policy or, if you are logged into your Cortico account, you can manage your privacy settings and other account features [here](https://app.lvn.org/settings). Please note that it may take a bit of time for privacy settings to be fully reflected throughout our systems. Under the CCPA, this right to deletion is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.  
 
 ### Exercising Your Rights 
+
+- Right to Access: If you are a California resident, you have the right to request (up to twice per year), access to categories and specific pieces of personal information about you that we collect, use, disclose, and sell.
+- Right to Delete: If you are a California resident, you have the right to request that we delete personal information that we collect from you, subject to applicable legal exceptions as mentioned above.
+- Right to Opt Out of Sale of Personal Information: If you are a California resident, you have the right to opt out of the sale of your personal information to third parties.
 
 To exercise the rights described above, you must send us a request that (1) provides sufficient information to allow us to verify that you are the person about whom we have collected Personal Data, including your email address used for lvn.org and the date and location of the conversation you participated in (if applicable) and (2) describes your request in sufficient detail to allow us to understand, evaluate and respond to it. Each request that meets both of these criteria will be considered a “Valid Request.” We may not respond to requests that do not meet these criteria. We will only use Personal Data provided in a Valid Request to verify your identity and complete your request. You do not need an account to submit a Valid Request. 
 
@@ -163,7 +168,7 @@ We will work to respond to your Valid Request within 45 days of receipt. We will
 You may submit a Valid Request using the following methods: 
 
 - Call us at: 617-404-9812 
-- Email us at: <help@lvn.org> 
+- Email us at: <help@cortico.ai> 
 
 You may also authorize an agent (an “Authorized Agent”) to exercise your rights on your behalf. To do this, you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf. 
 
@@ -176,8 +181,8 @@ Other State Law Privacy Rights
 
 ### California Resident Rights 
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at <help@lvn.org>. 
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at <help@cortico.ai>. 
 
 ### Nevada Resident Rights 
 
-If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at <help@lvn.org> with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your Personal Data as sales are defined in Nevada Revised Statutes Chapter 603A.  
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at <help@cortico.ai> with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your Personal Data as sales are defined in Nevada Revised Statutes Chapter 603A.  
