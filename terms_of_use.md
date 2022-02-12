@@ -1,7 +1,7 @@
 Cortico Corporation - Terms of Use
 ==================================
 
-*Effective date: August 12, 2021*
+*Effective date: February 28, 2022*
 
 Welcome to Cortico, the operator of the Local Voices Network. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at: 
 
@@ -186,7 +186,15 @@ We’re always trying to improve our Services, so they may change over time. We 
 Do the Services cost anything? 
 -----------------------------
 
-The Services are currently free, but we reserve the right to charge for certain or all Services in the future. We will notify you before any Services you are then using begin carrying a fee, and if you wish to continue using such Services, you must pay all applicable fees for such Services.
+**Paid Services**. Certain of our Services may be subject to payments now or in the future (the “Paid Services”). Please note that any payment terms presented to you in the process of using or signing up for a Paid Service are deemed part of these Terms. 
+
+**Billing**. We will process your payment for the Paid Services via electronic bank transfer or check. By choosing to use Paid Services, you agree to pay all charges at the prices then in effect for any use of such Paid Services in accordance with the applicable payment terms, and you authorize us to charge your chosen payment provider (your “Payment Method”). You agree to make payment using that selected Payment Method. We reserve the right to correct any errors or mistakes that the payment processor makes even if it has already requested or received payment.
+
+**Payment Method**. The terms of your payment will be based on your Payment Method and may be determined by agreements between you and the financial institution, credit card issuer or other provider of your chosen Payment Method. If we do not receive payment from you, you agree to pay all amounts due on your Billing Account upon demand.
+
+**Current Information Required**. YOU MUST PROVIDE CURRENT, COMPLETE AND ACCURATE INFORMATION FOR YOUR BILLING ACCOUNT. YOU MUST PROMPTLY UPDATE ALL INFORMATION TO KEEP YOUR BILLING ACCOUNT CURRENT, COMPLETE AND ACCURATE (SUCH AS A CHANGE IN BILLING ADDRESS, CREDIT CARD NUMBER, OR CREDIT CARD EXPIRATION DATE), AND YOU MUST PROMPTLY NOTIFY US AT HELP@CORTICO.AI IF YOUR PAYMENT METHOD IS CANCELED (E.G., FOR LOSS OR THEFT) OR IF YOU BECOME AWARE OF A POTENTIAL BREACH OF SECURITY, SUCH AS THE UNAUTHORIZED DISCLOSURE OR USE OF YOUR USER NAME OR PASSWORD. IF YOU FAIL TO PROVIDE ANY OF THE FOREGOING INFORMATION, YOU AGREE THAT WE MAY CONTINUE CHARGING YOU FOR ANY USE OF PAID SERVICES UNDER YOUR BILLING ACCOUNT UNLESS YOU HAVE TERMINATED YOUR PAID SERVICES AS SET FORTH ABOVE.
+
+**Change in Amount Authorized**. If the amount to be charged to your Billing Account varies from the amount you preauthorized (other than due to the imposition or change in the amount of state sales taxes), you have the right to receive, and we shall provide, notice of the amount to be charged and the date of the charge before the scheduled date of the transaction. Any agreement you have with your payment provider will govern your use of your Payment Method. You agree that we may accumulate charges incurred and submit them as one or more aggregate charges during or at the end of each billing cycle.
 
 What if I want to stop using the Services? 
 ----------------------------------------
